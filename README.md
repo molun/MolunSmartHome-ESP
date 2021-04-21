@@ -4,6 +4,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 基于涂鸦平台的智能家居控制小程序
 
-<p align="center">
-<img width=200 src="MolunSmartPlug.jpg" >
+<p align="left">
+<img src="MolunSmartPlug.jpg" >
 </p>
