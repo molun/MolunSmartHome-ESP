@@ -11,4 +11,7 @@ KEY按键可以通过焊盘短接连接到P6，也可以通过焊盘飞线连接
 
 <p align="left">
 <img width=400 src="Snipaste_2021-06-01_21-33-29.png" >
+<img width=400 src="Snipaste_2021-06-01_21-33-49.png" >
+<img width=400 src="Snipaste_2021-06-01_21-35-27.png" >
 </p>
+
