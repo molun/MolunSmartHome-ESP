@@ -14,8 +14,9 @@ For more information, please check Tuya Developer Website.
 
 
 <p align="left">
-<img width=400 src="Snipaste_2021-06-08_17-20-07.png" >
-<img width=400 src="Snipaste_2021-06-08_17-21-02.png" >
+<img width=400 src="Snipaste_2021-07-06_18-18-03.jpg" >
+<img width=400 src="Snipaste_2021-07-06_18-18-26.jpg" >
+<img width=400 src="Snipaste_2021-07-06_18-18-39.jpg" >
 <img width=400 src="Snipaste_2021-06-08_17-32-31.png" >
 </p>
 
