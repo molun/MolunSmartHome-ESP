@@ -1,0 +1,161 @@
+esp_toml_version = 1.0
+firmware_images_url = "https://espressif.github.io/esp-box/"
+
+supported_apps = ["chatgpt_demo-ESP-BOX-1_0_0","chatgpt_demo-ESP-BOX-3-1_0_0","chatgpt_demo-ESP-BOX-Lite-1_0_0","factory_demo-ESP-BOX-1_2_4","factory_demo-ESP-BOX-3-1_2_4","factory_demo-ESP-BOX-Lite-1_2_4","factory_test_fw-ESP-BOX-3","image_display-ESP-BOX-0_0_1","image_display-ESP-BOX-3-0_0_1","image_display-ESP-BOX-Lite-0_0_1","lv_demos-ESP-BOX-0_0_1","lv_demos-ESP-BOX-3-0_0_1","lv_demos-ESP-BOX-Lite-0_0_1","matter_switch-ESP-BOX-1_0_0","matter_switch-ESP-BOX-3-1_0_0","matter_switch-ESP-BOX-Lite-1_0_0","mp3_demo-ESP-BOX-0_0_1","mp3_demo-ESP-BOX-3-0_0_1","mp3_demo-ESP-BOX-Lite-0_0_1","usb_camera_lcd_display-ESP-BOX-3-0_0_1","usb_headset-ESP-BOX-0_1_1","usb_headset-ESP-BOX-3-0_1_1","usb_headset-ESP-BOX-Lite-0_1_1","watering_demo-ESP-BOX-0_0_1","watering_demo-ESP-BOX-3-0_0_1","watering_demo-ESP-BOX-Lite-0_0_1"]
+
+[chatgpt_demo-ESP-BOX-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "chatgpt_demo-ESP-BOX-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[chatgpt_demo-ESP-BOX-3-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "chatgpt_demo-ESP-BOX-3-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[chatgpt_demo-ESP-BOX-Lite-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "chatgpt_demo-ESP-BOX-Lite-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[factory_demo-ESP-BOX-1_2_4]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "factory_demo-ESP-BOX-1_2_4.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[factory_demo-ESP-BOX-3-1_2_4]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "factory_demo-ESP-BOX-3-1_2_4.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[factory_demo-ESP-BOX-Lite-1_2_4]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "factory_demo-ESP-BOX-Lite-1_2_4.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[factory_test_fw-ESP-BOX-3]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "factory_test_fw-ESP-BOX-3.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[image_display-ESP-BOX-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "image_display-ESP-BOX-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[image_display-ESP-BOX-3-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "image_display-ESP-BOX-3-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[image_display-ESP-BOX-Lite-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "image_display-ESP-BOX-Lite-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[lv_demos-ESP-BOX-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "lv_demos-ESP-BOX-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[lv_demos-ESP-BOX-3-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "lv_demos-ESP-BOX-3-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[lv_demos-ESP-BOX-Lite-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "lv_demos-ESP-BOX-Lite-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[matter_switch-ESP-BOX-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "matter_switch-ESP-BOX-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[matter_switch-ESP-BOX-3-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "matter_switch-ESP-BOX-3-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[matter_switch-ESP-BOX-Lite-1_0_0]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "matter_switch-ESP-BOX-Lite-1_0_0.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[mp3_demo-ESP-BOX-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "mp3_demo-ESP-BOX-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[mp3_demo-ESP-BOX-3-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "mp3_demo-ESP-BOX-3-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[mp3_demo-ESP-BOX-Lite-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "mp3_demo-ESP-BOX-Lite-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[usb_camera_lcd_display-ESP-BOX-3-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "usb_camera_lcd_display-ESP-BOX-3-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[usb_headset-ESP-BOX-0_1_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "usb_headset-ESP-BOX-0_1_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[usb_headset-ESP-BOX-3-0_1_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "usb_headset-ESP-BOX-3-0_1_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[usb_headset-ESP-BOX-Lite-0_1_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "usb_headset-ESP-BOX-Lite-0_1_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[watering_demo-ESP-BOX-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "watering_demo-ESP-BOX-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[watering_demo-ESP-BOX-3-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "watering_demo-ESP-BOX-3-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
+[watering_demo-ESP-BOX-Lite-0_0_1]
+chipsets = ["ESP32-S3"]
+image.esp32-s3 = "watering_demo-ESP-BOX-Lite-0_0_1.bin"
+ios_app_url = ""
+android_app_url = ""
+
