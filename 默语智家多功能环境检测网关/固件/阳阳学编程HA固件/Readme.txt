@@ -1,0 +1,1 @@
+https://gitee.com/panzuji/ha-esp32/releases/tag/v1.1.6
