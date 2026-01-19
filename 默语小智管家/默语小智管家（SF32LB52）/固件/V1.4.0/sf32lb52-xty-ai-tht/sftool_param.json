@@ -1,0 +1,33 @@
+{
+  "chip": "SF32LB52",
+  "memory": "NOR",
+  "write_flash": {
+    "verify": true,
+    "files": [
+      {
+        "path": "bootloader/bootloader.bin",
+        "address": "0x12208000"
+      },
+      {
+        "path": "main.bin/ER_IROM3.bin",
+        "address": "0x12460000"
+      },
+      {
+        "path": "main.bin/ER_IROM1.bin",
+        "address": "0x12218000"
+      },
+      {
+        "path": "main.bin/ER_IROM2.bin",
+        "address": "0x12AE0000"
+      },
+      {
+        "path": "dfu_pan/dfu_pan.bin",
+        "address": "0x12008000"
+      },
+      {
+        "path": "ftab/ftab.bin",
+        "address": "0x12000000"
+      }
+    ]
+  }
+}
